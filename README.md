@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Tong, Chen
 
 **Welcome to my homepage!**
