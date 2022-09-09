@@ -6,7 +6,7 @@
 - Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes, investigating the theoretical/empirical relations between uncertainty and volatility.
 - Chen would like to talk/corporate with all researchers/students who have common research interests.
 
-## Research Interest
+## Research Interests
 - Volatility modeling based on high-frequency data; Financial Econometrics; Financial Engineering; Derivatives Pricing
 
 
