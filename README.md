@@ -39,7 +39,7 @@
   - <em><strong>Journal of Futures Markets</strong></em>, Vol 41(8): 1180-1200, 2021. [[Link]](http://doi.org/10.1002/fut.22201)
 - The Predictive Power of Macroeconomic Uncertainty for Commodity Futures Volatility. (Zhuo Huang, Fang Liang and Chen Tong*)
   - <em><strong>International Review of Finance</strong></em>, Vol 21(3): 989-1012, 2021. [[Link]](http://doi.org/10.1111/irfi.12310)
-- Which Volatility Model for Option Valuation in China? Evidence from SSE 50 ETF Options. (Zhuo Huang, Chen Tong and Tianyi Wang*)
+- Which Model for Option Valuation in China? Evidence from SSE 50 ETF Options. (Zhuo Huang, Chen Tong and Tianyi Wang*)
   - <em><strong>Applied Economics</strong></em>, Vol 52(17): 1866-1880, 2020. [[Link]](http://doi.org/10.1080/00036846.2019.1679348)
 - VIX Term Structure and VIX Futures Pricing with Realized Volatility. (Zhuo Huang, Chen Tong and Tianyi Wang*) 
   - <em><strong>Journal of Futures  Markets</strong></em>, Vol 39(1): 72-93, 2019. [[Link]](http://doi.org/10.1002/fut.21955)
@@ -52,8 +52,8 @@
   
   
 ## Contact
-中文名: 童晨 <br />
-Office: B407, Econ Building, Xiamen University <br />
-Email: &nbsp; tongchen@xmu.edu.cn <br />
+- 中文名: 童晨 <br />
+- Office: B407, Econ Building, Xiamen University <br />
+- Email: &nbsp; tongchen@xmu.edu.cn <br />
 
 
