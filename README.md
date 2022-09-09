@@ -1,4 +1,7 @@
-# tongchen-volatility.github.io
+# Tong, Chen
+
+**Welcome to my homepage!**
+- My research focuses on the modeling of financial risk factors, such as volatility and uncertainty, and their applications in financial engineering.
 
 ## Research Interest
 - Volatility modeling based on high-frequency data; Financial Economics; Financial Engineering
@@ -40,6 +43,6 @@
 - The Spillover of Macroeconomic Uncertainty between the U.S. and China. (Zhuo Huang, Chen Tong, Han Qiu* and Yan Shen)
   - <em><strong>Economics Letters</strong></em>, Vol 171, 123-127, 2018. [[Link]](http://doi.org/10.1016/j.econlet.2018.07.018)
 - Measuring Financial Uncertainty in China: A Big Data Approach. (Zhuo Huang, Han Qiu*, Yan Shen and Chen Tong)
-  - <em><strong>Journal of Financial Research (in Chinese), </strong></em>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
+  - <em><strong>Journal of Financial Research (in Chinese), 金融研究 </strong></em>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
 - Minimum Wage, Rural Migrants&rsquo; Unemployment and Crime: Evidence from China. (Dandan Zhang, Lixing Li* and Chen Tong)
-  - <em><strong>China Economic Quarterly (in Chinese), </strong></em>, Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
+  - <em><strong>China Economic Quarterly (in Chinese), 经济学（季刊） </strong></em>, Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
