@@ -1,10 +1,13 @@
 ## Tong, Chen
 
 **Welcome to my homepage!**
-- My research focuses on the modeling of financial risk factors, such as volatility and uncertainty, and their applications in financial engineering.
+- Chen Tong is an assistant professor at the Department of Finance, Xiamen University. He holds a B.S. in Chemistry, a B.A. in Economics and a Ph.D. in Finance from Peking University.
+- His research focuses on the modeling of financial <em>volatility</em>, high-frequency data analysis and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures and VIX options), and  proposing coherent frameworks for derivatives pricing with time-varying risk aversion. 
+- Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes, investigating the theoretical/empirical relations between uncertainty and volatility.
+- Chen would like to talk/corporate with all researchers/students who have common research interests.
 
 ## Research Interest
-- Volatility modeling based on high-frequency data; Financial Economics; Financial Engineering
+- Volatility modeling based on high-frequency data; Financial Econometrics; Financial Engineering; Derivatives Pricing
 
 
 ## Positions
@@ -13,10 +16,10 @@
 
 
 ## Education
-- Ph.D. in Economics, National School of Development, Peking University, 2016-2021
+- Ph.D. in Finance, National School of Development, Peking University, 2016-2021
   - Advisors: Zhuo Huang, Yan Shen
 - Visiting Ph.D. student, Economics Department, Duke University, 2019-2020
-  - Advisors: Jia Li (Duke), Peter Reinhard Hansen (UNC, Chapel Hill)
+  - Advisors: Peter Reinhard Hansen (UNC, Chapel Hill), Jia Li (Duke)
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
@@ -46,3 +49,11 @@
   - <em><strong>Journal of Financial Research (in Chinese), 金融研究 </strong></em>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
 - Minimum Wage, Rural Migrants&rsquo; Unemployment and Crime: Evidence from China. (Dandan Zhang, Lixing Li* and Chen Tong)
   - <em><strong>China Economic Quarterly (in Chinese), 经济学（季刊） </strong></em>, Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
+  
+  
+## Contact
+中文名: 童晨 <br />
+Office: B407, Econ Building, Xiamen University <br />
+Email: &nbsp; tongchen@xmu.edu.cn <br />
+
+
