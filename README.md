@@ -1,10 +1,10 @@
 ## Tong, Chen
 
 **Welcome to my homepage!**
-- Chen Tong is an assistant professor at the Department of Finance, Xiamen University. He holds a B.S. in Chemistry, a B.A. in Economics and a Ph.D. in Finance from Peking University, China.
-- His research focuses on modeling of financial <em>volatility</em>, high-frequency data analysis and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures and VIX options), and  proposing coherent frameworks for derivatives pricing with time-varying risk aversion. 
-- Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes, investigating the theoretical/empirical relations between uncertainty and volatility.
-- Chen would like to talk/corporate with all researchers/students who have common research interests. 
+- Chen Tong is an assistant professor at the Department of Finance, Xiamen University. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
+- He focuses on the modeling of financial <em>volatility</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures and VIX options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion. 
+- Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes and investigating the theoretical/empirical relations between uncertainty and volatility.
+- Chen would like to talk/cooperate with all researchers/students who have common research interests. 
 
 
 ## Research Interests
