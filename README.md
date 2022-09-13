@@ -56,6 +56,7 @@
 ## Wokring Papers
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
   - <em><strong>Journal of Empirical Finance</strong></em>, revise and resubmit.
+  
 ## Contact
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University <br />
