@@ -20,7 +20,7 @@
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
   - Advisors: Zhuo Huang, Yan Shen
 - Visiting Ph.D. student, Economics Department, Duke University, 2019-2020
-  - Advisors: Peter Reinhard Hansen (UNC, Chapel Hill), Jia Li (Duke)
+  - Advisors: Peter Reinhard Hansen (@UNC, Chapel Hill), Jia Li (@Duke)
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
@@ -52,7 +52,10 @@
   - <em><strong>China Economic Quarterly (in Chinese), 经济学（季刊） </strong></em>, Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
 - The Impacts of Economic Uncertainty on Financial Markets: A Literature Survey. (Zhuo Huang, Chen Tong and Fang Liang) 
   - <em><strong>Financial Science (in Chinese), 金融科学</strong></em>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88) 
-  
+
+## Wokring Papers
+- The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
+  - <em><strong>Journal of Empirical Finance</strong></em>, revise and resubmit.
 ## Contact
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University <br />
