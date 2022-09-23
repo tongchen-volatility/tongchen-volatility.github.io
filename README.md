@@ -27,9 +27,9 @@
 
 ## Forthcoming Papers
 - Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
-  - <em><strong>The Journal of Derivatives</strong></em>, forthcoming.
+  - <em><strong>The Journal of Derivatives</strong></em>, forthcoming. 
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
-  - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming.
+  - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 
 ## Publications
 - Do VIX Futures Contribute to the Valuation of VIX Options? (Chen Tong, Zhuo Huang and Tianyi Wang*)
