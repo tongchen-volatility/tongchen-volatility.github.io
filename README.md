@@ -20,14 +20,14 @@
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
   - Advisors: Zhuo Huang, Yan Shen
 - Visiting Ph.D. student, Economics Department, Duke University, 2019-2020
-  - Advisors: Peter Reinhard Hansen (@UNC, Chapel Hill), Jia Li (@Duke)
+  - Advisors: Peter Reinhard Hansen (@UNC, Chapel Hill), Jia Li (@SMU)
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 
 ## Forthcoming Papers
 - Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
-  - <em><strong>The Journal of Derivatives</strong></em>, forthcoming. 
+  - <em><strong>The Journal of Derivatives</strong></em>, forthcoming. [[Link]](https://doi.org/10.3905/jod.2022.1.174)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 
@@ -63,5 +63,5 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; November 26, 2022
+- Date: &nbsp; October 8, 2022
 
