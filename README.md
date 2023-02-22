@@ -14,7 +14,7 @@
 ## Positions
 - Assistant professor, Department of Finance, School of Economics, Xiamen University, 2021-present
 - Assistant professor, The Wang Yanan Institute for Studies in Economics (WISE), Xiamen University, 2021-present
-
+- Guest research fellow, Institute of Digital Finance, Peking University, 2022-present
 
 ## Education
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
