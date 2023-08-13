@@ -2,7 +2,7 @@
 
 **Welcome to my homepage!**
 
-<img src="https://github.com/tongchen-volatility/tongchen-volatility.github.io/assets/112997903/089e1731-d953-47de-8f17-c986cfe97037" alt="Image" width="200"  align="right">
+<img src="https://github.com/tongchen-volatility/tongchen-volatility.github.io/assets/112997903/6033ddde-e3d1-4093-a887-f0ca6ae92ede" alt="Image" width="200"  align="right">
 
 - Chen Tong is an assistant professor at the Department of Finance, Xiamen University. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
 - He focuses on the modeling of financial <em>volatility/correlation matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion. 
