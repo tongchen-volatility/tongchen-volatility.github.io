@@ -1,4 +1,4 @@
-## Tong, Chen (童晨)
+## Tong, Chen
 
 **Welcome to my homepage!**
 - Chen Tong is an assistant professor at the Department of Finance, Xiamen University. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
