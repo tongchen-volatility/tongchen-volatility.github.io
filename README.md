@@ -1,14 +1,14 @@
-## Tong, Chen
+## Tong, Chen (童晨)
 
 **Welcome to my homepage!**
 - Chen Tong is an assistant professor at the Department of Finance, Xiamen University. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
-- He focuses on the modeling of financial <em>volatility</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures and VIX options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion. 
+- He focuses on the modeling of financial <em>volatility/correlation matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion. 
 - Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes and investigating the theoretical/empirical relations between uncertainty and volatility.
 - Chen would like to talk/cooperate with all researchers/students who have common research interests. 
 
 
 ## Research Interests
-- Volatility modeling based on high-frequency data; Financial Econometrics; Financial Engineering; Derivatives Pricing
+- Volatility/Correlation Matrix Modeling; Financial Econometrics; Financial Engineering
 
 
 ## Positions
@@ -18,7 +18,7 @@
 
 ## Education
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
-  - Advisors: Zhuo Huang, Yan Shen
+  - Advisors: Zhuo Huang (@PKU), Yan Shen (@PHBS)
 - Visiting Ph.D. student, Economics Department, Duke University, 2019-2020
   - Advisors: Peter Reinhard Hansen (@UNC, Chapel Hill), Jia Li (@SMU)
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
@@ -26,12 +26,14 @@
 
 
 ## Forthcoming Papers
-- Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
-  - <em><strong>The Journal of Derivatives</strong></em>, forthcoming. [[Link]](https://doi.org/10.3905/jod.2022.1.174)
+- The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
+  - <em><strong>Journal of Empirical Finance</strong></em>, forthcoming.
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 
 ## Publications
+- Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
+  - <em><strong>The Journal of Derivatives</strong></em>, Vol 30(3): 117-143, 2023. [[Link]](https://doi.org/10.3905/jod.2022.1.174)
 - Do VIX Futures Contribute to the Valuation of VIX Options? (Chen Tong, Zhuo Huang and Tianyi Wang*)
   - <em><strong>Journal of Futures Markets</strong></em>, Vol 42(9): 1644-1664, 2022. [[Link]](http://doi.org/10.1002/fut.22278)
 - Option Pricing with State-Dependent Pricing Kernel. (Chen Tong, Peter Reinhard Hansen* and Zhuo Huang) 
@@ -53,15 +55,15 @@
 - The Impacts of Economic Uncertainty on Financial Markets: A Literature Survey. (Zhuo Huang, Chen Tong and Fang Liang) 
   - <em><strong>Financial Science (in Chinese), 金融科学</strong></em>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88) 
 
-## Working Papers  
-- The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
-  - <em><strong>Journal of Empirical Finance</strong></em>, revise and resubmit.
-- Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*) 
-  - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943) 
+## Working Papers
+- Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision. 
+  - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
+  - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
+- Characterizing Correlation Matrices that Admit a Clustered Factor Representation (Chen Tong and Peter Reinhard Hansen*), submitted.
 
 ## Contact
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; October 8, 2022
+- Date: &nbsp; August 13, 2023
 
