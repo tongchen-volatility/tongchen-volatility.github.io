@@ -27,7 +27,7 @@
 
 ## Forthcoming Papers
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
-  - <em><strong>Journal of Empirical Finance</strong></em>, forthcoming.
+  - <em><strong>Journal of Empirical Finance</strong></em>, forthcoming. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 
@@ -66,5 +66,5 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; August 13, 2023
+- Date: &nbsp; August 16, 2023
 
