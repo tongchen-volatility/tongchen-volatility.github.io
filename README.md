@@ -24,14 +24,13 @@
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
-
 ## Forthcoming Papers
-- The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
-  - <em><strong>Journal of Empirical Finance</strong></em>, forthcoming. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 
 ## Publications
+- The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
+  - <em><strong>Journal of Empirical Finance</strong></em>, Vol 73: 369-389, 2023. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
 - Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
   - <em><strong>The Journal of Derivatives</strong></em>, Vol 30(3): 117-143, 2023. [[Link]](https://doi.org/10.3905/jod.2022.1.174)
 - Do VIX Futures Contribute to the Valuation of VIX Options? (Chen Tong, Zhuo Huang and Tianyi Wang*)
@@ -60,7 +59,6 @@
   - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation (Chen Tong and Peter Reinhard Hansen*).  [[Link]](https://arxiv.org/abs/2308.05895)
-
 
 ## Contact
 - 中文名: 童晨 <br />
