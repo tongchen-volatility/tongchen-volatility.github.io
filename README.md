@@ -25,6 +25,8 @@
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Forthcoming Papers
+- Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
+  - <em><strong>Economics Letters</strong></em>, forthcoming. [[Link]](https://arxiv.org/abs/2308.05895)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 
@@ -58,7 +60,6 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision. 
   - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
-- Characterizing Correlation Matrices that Admit a Clustered Factor Representation (Chen Tong and Peter Reinhard Hansen*).  [[Link]](https://arxiv.org/abs/2308.05895)
 
 ## Contact
 - 中文名: 童晨 <br />
