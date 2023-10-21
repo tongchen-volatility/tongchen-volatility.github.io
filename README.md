@@ -57,7 +57,9 @@
   - <em><strong>Financial Science (in Chinese), 金融科学</strong></em>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88) 
 
 ## Working Papers
-- Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision. 
+- High-Dimensional GARCH with Block Structures and Heavy Tails (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
+  - Presented at the conference <em><strong>2023 Robust Econometric Methods in Financial Econometrics</strong></em>, University of Copenhagen.
+- Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision.
   - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
 
