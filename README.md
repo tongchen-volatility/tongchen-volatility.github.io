@@ -2,14 +2,13 @@
 
 **Welcome to my homepage!**
 - Chen Tong is an assistant professor at the Department of Finance, Xiamen University. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
-- He focuses on the modeling of financial <em>volatility/correlation matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion. 
+- He focuses on the modeling of financial <em>volatility</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
 - Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes and investigating the theoretical/empirical relations between uncertainty and volatility.
-- Chen would like to talk/cooperate with all researchers/students who have common research interests. 
-
+- He is currently collaborating with his overseas advisor [@Peter Reinhard Hansen](https://sites.google.com/site/peterreinhardhansen/) on exploring parameterizations of structured correlation matrices and their practical use in building advanced GARCH models for high-dimensional data.
+- Chen would like to talk/cooperate with all researchers/students who have common research interests.
 
 ## Research Interests
 - Volatility/Correlation Matrix Modeling; Financial Econometrics; Financial Engineering
-
 
 ## Positions
 - Assistant professor, Department of Finance, School of Economics, Xiamen University, 2021-present
@@ -27,10 +26,12 @@
 ## Forthcoming Papers
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
   - <em><strong>Economics Letters</strong></em>, forthcoming. [[Link]](https://arxiv.org/abs/2308.05895)
-- Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
-  - <em><strong>Journal of Financial Econometrics</strong></em>, forthcoming. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
+- LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
+  - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>，<strong>《数理统计与管理》</strong>, forthcoming.
 
 ## Publications
+- Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
+  - <em><strong>Journal of Financial Econometrics</strong></em>, published online. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
   - <em><strong>Journal of Empirical Finance</strong></em>, Vol 73: 369-389, 2023. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
 - Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
@@ -50,11 +51,11 @@
 - The Spillover of Macroeconomic Uncertainty between the U.S. and China. (Zhuo Huang, Chen Tong, Han Qiu* and Yan Shen)
   - <em><strong>Economics Letters</strong></em>, Vol 171, 123-127, 2018. [[Link]](http://doi.org/10.1016/j.econlet.2018.07.018)
 - Measuring Financial Uncertainty in China: A Big Data Approach. (Zhuo Huang, Han Qiu*, Yan Shen and Chen Tong)
-  - <em><strong>Journal of Financial Research (in Chinese), 金融研究</strong></em>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
+  - <em><strong>Journal of Financial Research (in Chinese)</strong></em>, <strong>《金融研究》</strong>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
 - Minimum Wage, Rural Migrants&rsquo; Unemployment and Crime: Evidence from China. (Dandan Zhang, Lixing Li* and Chen Tong)
-  - <em><strong>China Economic Quarterly (in Chinese), 经济学（季刊）</strong></em>, Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
+  - <em><strong>China Economic Quarterly (in Chinese)</strong></em>,<strong>《经济学（季刊）》</strong> Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
 - The Impacts of Economic Uncertainty on Financial Markets: A Literature Survey. (Zhuo Huang, Chen Tong and Fang Liang) 
-  - <em><strong>Financial Science (in Chinese), 金融科学</strong></em>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88) 
+  - <em><strong>Financial Science (in Chinese)</strong></em>,<strong>《金融科学》</strong>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88) 
 
 ## Working Papers
 - High-Dimensional GARCH with Block Structures and Heavy Tails (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
@@ -67,5 +68,5 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; August 30, 2023
+- Date: &nbsp; October 27, 2023
 
