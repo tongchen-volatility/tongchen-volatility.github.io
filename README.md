@@ -29,7 +29,7 @@
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, published online. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
-  - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>，<strong>《数理统计与管理》</strong>, forthcoming.
+  - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, forthcoming.
 
 ## Publications
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
@@ -51,7 +51,7 @@
 - The Spillover of Macroeconomic Uncertainty between the U.S. and China. (Zhuo Huang, Chen Tong, Han Qiu* and Yan Shen)
   - <em><strong>Economics Letters</strong></em>, Vol 171, 123-127, 2018. [[Link]](http://doi.org/10.1016/j.econlet.2018.07.018)
 - Measuring Financial Uncertainty in China: A Big Data Approach. (Zhuo Huang, Han Qiu*, Yan Shen and Chen Tong)
-  - <em><strong>Journal of Financial Research (in Chinese)</strong></em>, <strong>《金融研究》</strong>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
+  - <em><strong>Journal of Financial Research (in Chinese)</strong></em>,<strong>《金融研究》</strong>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
 - Minimum Wage, Rural Migrants&rsquo; Unemployment and Crime: Evidence from China. (Dandan Zhang, Lixing Li* and Chen Tong)
   - <em><strong>China Economic Quarterly (in Chinese)</strong></em>,<strong>《经济学（季刊）》</strong> Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
 - The Impacts of Economic Uncertainty on Financial Markets: A Literature Survey. (Zhuo Huang, Chen Tong and Fang Liang) 
