@@ -25,7 +25,7 @@
 
 ## Forthcoming Papers
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
-  - <em><strong>Economics Letters</strong></em>, published online. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433))
+  - <em><strong>Economics Letters</strong></em>, published online. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, published online. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
