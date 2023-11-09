@@ -24,14 +24,14 @@
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Forthcoming Papers
-- Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
-  - <em><strong>Economics Letters</strong></em>, published online. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, published online. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
   - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, forthcoming.
 
 ## Publications
+- Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
+  - <em><strong>Economics Letters</strong></em>, Vol 233: 111433, 2023. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
   - <em><strong>Journal of Empirical Finance</strong></em>, Vol 73: 369-389, 2023. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
 - Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
