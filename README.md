@@ -11,9 +11,9 @@
 - Volatility/Correlation Matrix Modeling; Financial Econometrics; Financial Engineering
 
 ## Positions
-- Assistant professor, Department of Finance, School of Economics, Xiamen University, 2021-present
-- Assistant professor, The Wang Yanan Institute for Studies in Economics (WISE), Xiamen University, 2021-present
-- Guest research fellow, Institute of Digital Finance, Peking University, 2022-present
+- Assistant professor, Department of Finance, School of Economics, Xiamen University, July 2021 - present
+- Assistant professor, The Wang Yanan Institute for Studies in Economics (WISE), Xiamen University, July 2021 - present
+- Guest research fellow, Institute of Digital Finance, Peking University, January 2022 - present
 
 ## Education
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
@@ -63,10 +63,11 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision.
   - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
+- Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium (Chen Tong*)
 
 ## Contact
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; November 6, 2023
+- Date: &nbsp; November 29, 2023
 
