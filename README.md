@@ -63,7 +63,7 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision.
   - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
-- Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium (Chen Tong*)
+- Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium (Chen Tong)
 
 ## Contact
 - 中文名: 童晨 <br />
