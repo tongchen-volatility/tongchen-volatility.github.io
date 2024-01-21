@@ -23,13 +23,9 @@
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
-## Forthcoming Papers
-- Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
-  - <em><strong>Journal of Financial Econometrics</strong></em>, published online. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
-- LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
-  - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, forthcoming.
-
 ## Publications
+- Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
+  - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
   - <em><strong>Economics Letters</strong></em>, Vol 233: 111433, 2023. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
@@ -55,7 +51,9 @@
 - Minimum Wage, Rural Migrants&rsquo; Unemployment and Crime: Evidence from China. (Dandan Zhang, Lixing Li* and Chen Tong)
   - <em><strong>China Economic Quarterly (in Chinese)</strong></em>,<strong>《经济学（季刊）》</strong> Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
 - The Impacts of Economic Uncertainty on Financial Markets: A Literature Survey. (Zhuo Huang, Chen Tong and Fang Liang) 
-  - <em><strong>Financial Science (in Chinese)</strong></em>,<strong>《金融科学》</strong>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88) 
+  - <em><strong>Financial Science (in Chinese)</strong></em>,<strong>《金融科学》</strong>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88)
+- LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
+  - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, forthcoming.
 
 ## Working Papers
 - High-Dimensional GARCH with Block Structures and Heavy Tails (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
@@ -71,4 +69,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; November 30, 2023
+- Date: &nbsp; January 21, 2024
