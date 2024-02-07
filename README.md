@@ -23,7 +23,9 @@
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
-## Publications
+## Publications and Forthcoming Papers
+- Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
+  - <em><strong>Finance Research Letters</strong></em>, forthcoming.
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
@@ -63,10 +65,9 @@
   - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
 - Pricing VIX Futures and Options with Good and Bad Volatility of Volatility (Zhiyu Guo, Zhuo Huang and Chen Tong*), invited submission.
   - Presented at the <em><strong>12th International Conference on Futures and Other Derivatives</strong></em>, Guangzhou.
-- Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium (Chen Tong)
 
 ## Contact
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; January 21, 2024
+- Date: &nbsp; February 7, 2024
