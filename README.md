@@ -25,7 +25,7 @@
 
 ## Publications and Forthcoming Papers
 - Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
-  - <em><strong>Finance Research Letters</strong></em>, forthcoming.
+  - <em><strong>Finance Research Letters</strong></em>, forthcoming. [[Link]](https://doi.org/10.1016/j.frl.2024.105115)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
@@ -70,4 +70,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; February 7, 2024
+- Date: &nbsp; February 8, 2024
