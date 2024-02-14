@@ -2,13 +2,12 @@
 
 **Welcome to my homepage!**
 - Chen Tong is an assistant professor at the Department of Finance, Xiamen University, China. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
-- He focuses on the modeling of financial <em>volatility</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
+- He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
 - Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes and investigating the theoretical/empirical relations between uncertainty and volatility.
-- He is currently collaborating with his overseas advisor [@Peter Reinhard Hansen](https://sites.google.com/site/peterreinhardhansen/) on exploring parameterizations of structured correlation matrices and their practical use in building advanced GARCH models for high-dimensional data.
 - Chen would like to talk/cooperate with all researchers/students who have common research interests.
 
 ## Research Interests
-- Volatility/Correlation Matrix Modeling; Financial Econometrics; Financial Engineering
+- Volatility/Covariance Matrix Modeling; Financial Econometrics; Financial Engineering
 
 ## Positions
 - Assistant professor, Department of Finance, School of Economics, Xiamen University, July 2021 - present
@@ -23,9 +22,9 @@
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
-## Publications and Forthcoming Papers
+## Publications
 - Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
-  - <em><strong>Finance Research Letters</strong></em>, forthcoming. [[Link]](https://doi.org/10.1016/j.frl.2024.105115)
+  - <em><strong>Finance Research Letters</strong></em>, Vol 62, Part A: 105115, 2024. [[Link]](https://doi.org/10.1016/j.frl.2024.105115)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
@@ -70,4 +69,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; February 8, 2024
+- Date: &nbsp; February 14, 2024
