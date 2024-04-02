@@ -57,7 +57,8 @@
   - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, forthcoming.
 
 ## Working Papers
-- High-Dimensional GARCH with Block Structures and Heavy Tails (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
+- Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
+- High-Dimensional GARCH with Block Structures and Heavy Tails. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
   - Presented at the conference <em><strong>2023 Robust Econometric Methods in Financial Econometrics</strong></em>, University of Copenhagen.
 - Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision.
   - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
@@ -69,4 +70,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; February 14, 2024
+- Date: &nbsp; April 1, 2024
