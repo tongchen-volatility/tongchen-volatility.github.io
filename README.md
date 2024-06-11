@@ -58,12 +58,12 @@
 
 ## Working Papers
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
-- High-Dimensional GARCH with Block Structures and Heavy Tails. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
+- Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
   - Presented at the conference <em><strong>2023 Robust Econometric Methods in Financial Econometrics</strong></em>, University of Copenhagen.
-- Option Pricing with Time-Varying Volatility Risk Aversion (Peter Reinhard Hansen and Chen Tong*), under revision.
-  - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. [[Link]](https://arxiv.org/abs/2204.06943)
+- Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*), under revision. [[Link]](https://arxiv.org/abs/2204.06943)
+  - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. 
   - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
-- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility (Zhiyu Guo, Zhuo Huang and Chen Tong*), invited submission.
+- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*), invited submission.
   - Presented at the <em><strong>12th International Conference on Futures and Other Derivatives</strong></em>, Guangzhou.
 
 ## Contact
