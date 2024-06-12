@@ -23,8 +23,8 @@
 
 ## Working Papers
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
-  - Presented at the <em>2024 Ole E. Barndorff-Nielsen memorial conference</em>, Toulouse School of Economics.
-  - Presented at the <em>2024 TSE Financial Econometrics Conference</em>, Aarhus University.
+  - Presented at the <em>2024 Ole E. Barndorff-Nielsen memorial conference</em>, Aarhus University.
+  - Presented at the <em>2024 TSE Financial Econometrics Conference</em>, Toulouse School of Economics.
 - Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov) [[Link]](https://arxiv.org/abs/2406.06860)
   - Presented at the conference <em>2023 Robust Econometric Methods in Financial Econometrics</em>, University of Copenhagen.
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*), under revision. [[Link]](https://arxiv.org/abs/2204.06943)
