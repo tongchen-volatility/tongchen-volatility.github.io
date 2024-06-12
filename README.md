@@ -2,8 +2,7 @@
 
 **Welcome to my homepage!**
 - Chen Tong is an assistant professor at the Department of Finance, Xiamen University, China. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
-- He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-frequency-based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
-- Another line of his research is related to economic <em>uncertainty</em>, including constructing China’s macro/financial uncertainty indexes and investigating the theoretical/empirical relations between uncertainty and volatility.
+- He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-dimensional multivariate GARCH model, high-frequency data based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
 - Chen would like to talk/cooperate with all researchers/students who have common research interests.
 
 ## Research Interests
@@ -21,6 +20,18 @@
   - Advisors: Peter Reinhard Hansen (@UNC, Chapel Hill), Jia Li (@SMU)
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
+
+## Working Papers
+- Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
+  - Presented at the <em>2024 Ole E. Barndorff-Nielsen memorial conference</em>, Toulouse School of Economics.
+  - Presented at the <em>2024 TSE Financial Econometrics Conference</em>, Aarhus University.
+- Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov) [[Link]](https://arxiv.org/abs/2406.06860)
+  - Presented at the conference <em>2023 Robust Econometric Methods in Financial Econometrics</em>, University of Copenhagen.
+- Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*), under revision. [[Link]](https://arxiv.org/abs/2204.06943)
+  - Presented at the <em>SoFiE 2022 conference</em>, University of Cambridge. 
+  - Presented at the <em>SoFiE 2023 conference</em>, Sungkyunkwan University.
+- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*).
+  - Presented at the <em>12th International Conference on Futures and Other Derivatives</em>, Guangzhou.
 
 ## Publications
 - Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
@@ -56,18 +67,8 @@
 - LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
   - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, forthcoming.
 
-## Working Papers
-- Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
-- Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov)
-  - Presented at the conference <em><strong>2023 Robust Econometric Methods in Financial Econometrics</strong></em>, University of Copenhagen.
-- Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*), under revision. [[Link]](https://arxiv.org/abs/2204.06943)
-  - Presented at the <em><strong>SoFiE 2022 conference</strong></em>, University of Cambridge. 
-  - Presented at the <em><strong>SoFiE 2023 conference</strong></em>, Sungkyunkwan University.
-- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*), invited submission.
-  - Presented at the <em><strong>12th International Conference on Futures and Other Derivatives</strong></em>, Guangzhou.
-
 ## Contact
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; April 1, 2024
+- Date: &nbsp; June 12, 2024
