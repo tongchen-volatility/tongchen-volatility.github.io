@@ -61,11 +61,11 @@
 - Measuring Financial Uncertainty in China: A Big Data Approach. (Zhuo Huang, Han Qiu*, Yan Shen and Chen Tong)
   - <em><strong>Journal of Financial Research (in Chinese)</strong></em>,<strong>《金融研究》</strong>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
 - Minimum Wage, Rural Migrants&rsquo; Unemployment and Crime: Evidence from China. (Dandan Zhang, Lixing Li* and Chen Tong)
-  - <em><strong>China Economic Quarterly (in Chinese)</strong></em>,<strong>《经济学（季刊）》</strong> Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
+  - <em><strong>China Economic Quarterly (in Chinese)</strong></em>,<strong>《经济学（季刊）》</strong>, Vol 17(3): 1035-1054, 2018. [[Link]](http://ccj.pku.edu.cn/jjx/CN/10.13821/j.cnki.ceq.2018.02.08)
 - The Impacts of Economic Uncertainty on Financial Markets: A Literature Survey. (Zhuo Huang, Chen Tong and Fang Liang) 
   - <em><strong>Financial Science (in Chinese)</strong></em>,<strong>《金融科学》</strong>, Vol 2: 30-46, 2017. [[Link]](https://jrkx.chinajournal.net.cn/WKH/WebPublication/paperDigest.aspx?paperID=61f0916e-1a3f-4029-a4e2-0e8e53669a88)
 - LAD-LASSO estimation and application of multiple thresholds volatility model. (Muyi Li, Chen Tong and Xiaolin Zhang*)
-  - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, forthcoming.
+  - <em><strong>Journal of Applied Statistics and Management (in Chinese)</strong></em>,<strong>《数理统计与管理》</strong>, Vol 43(3): 559-570, 2024. [[Link]](http://sltj.chinajournal.net.cn/WKB2/WebPublication/paperDigest.aspx?paperID=8893ec39-e126-4433-ad26-4d6f37fa16ab)
 
 ## Contact
 - 中文名: 童晨 <br />
