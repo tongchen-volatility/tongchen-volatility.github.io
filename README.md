@@ -6,7 +6,7 @@
 - Chen would like to talk/cooperate with all researchers/students who have common research interests.
 
 ## Research Interests
-- Volatility/Covariance Matrix Modeling; Financial Econometrics; Financial Engineering
+-  Financial Econometrics; Financial Engineering; Volatility/Covariance Matrix Modeling;
 
 ## Positions
 - Assistant professor, Department of Finance, School of Economics, Xiamen University, July 2021 - present
@@ -15,7 +15,7 @@
 
 ## Education
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
-  - Advisors: Zhuo Huang (@PKU), Yan Shen (@PHBS)
+  - Advisors: Zhuo Huang (@PKU), Yan Shen (@PKU)
 - Visiting Ph.D. student, Economics Department, Duke University, 2019-2020
   - Advisors: Peter Reinhard Hansen (@UNC, Chapel Hill), Jia Li (@SMU)
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
@@ -30,10 +30,10 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*), under revision. [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em>SoFiE 2022 conference</em>, University of Cambridge. 
   - Presented at the <em>SoFiE 2023 conference</em>, Sungkyunkwan University.
-- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*).
-  - Presented at the <em>12th International Conference on Futures and Other Derivatives</em>, Guangzhou.
 
 ## Publications
+- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
+  - <em><strong>Journal of Futures Markets</strong></em>, forthcoming.
 - Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
   - <em><strong>Finance Research Letters</strong></em>, Vol 62, Part A: 105115, 2024. [[Link]](https://doi.org/10.1016/j.frl.2024.105115)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
@@ -71,4 +71,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; June 12, 2024
+- Date: &nbsp; July 13, 2024
