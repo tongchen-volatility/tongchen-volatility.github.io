@@ -33,7 +33,7 @@
 
 ## Publications
 - Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
-  - <em><strong>Journal of Futures Markets</strong></em>, forthcoming.  [[Link]](http://doi.org/10.1002/fut.22545)
+  - <em><strong>Journal of Futures Markets</strong></em>, forthcoming.  [[Link]](https://doi.org/10.1002/fut.22545)
 - Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
   - <em><strong>Finance Research Letters</strong></em>, Vol 62, Part A: 105115, 2024. [[Link]](https://doi.org/10.1016/j.frl.2024.105115)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
@@ -71,4 +71,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; July 13, 2024
+- Date: &nbsp; August 19, 2024
