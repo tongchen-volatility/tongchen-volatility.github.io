@@ -22,12 +22,13 @@
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
+- Fractional Moments by the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
   - Presented at the <em>2024 Ole E. Barndorff-Nielsen memorial conference</em>, Aarhus University.
   - Presented at the <em>2024 TSE Financial Econometrics Conference</em>, Toulouse School of Economics.
-- Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov), revised and resubmitted. [[Link]](https://arxiv.org/abs/2406.06860)
+- Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov). [[Link]](https://arxiv.org/abs/2406.06860)
   - Presented at the conference <em>2023 Robust Econometric Methods in Financial Econometrics</em>, University of Copenhagen.
-- Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*), revised and resubmitted. [[Link]](https://arxiv.org/abs/2204.06943)
+- Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em>SoFiE 2022 conference</em>, University of Cambridge. 
   - Presented at the <em>SoFiE 2023 conference</em>, Sungkyunkwan University.
 
