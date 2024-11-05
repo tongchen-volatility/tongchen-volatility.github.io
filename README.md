@@ -31,6 +31,7 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em>SoFiE 2022 conference</em>, University of Cambridge. 
   - Presented at the <em>SoFiE 2023 conference</em>, Sungkyunkwan University.
+- Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Chen Tong and Man Zhang*)
 
 ## Publications
 - Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
@@ -72,4 +73,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; October 09, 2024
+- Date: &nbsp; November 05, 2024
