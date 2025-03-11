@@ -34,7 +34,7 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em>SoFiE 2022 conference</em>, University of Cambridge.
   - Presented at the <em>SoFiE 2023 conference</em>, Sungkyunkwan University.
-- Fractional Moments by the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
+- Moments by the Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
 - VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
 - Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Chen Tong and Man Zhang*)
 
@@ -78,4 +78,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; December 10, 2024
+- Date: &nbsp; March 10, 2025
