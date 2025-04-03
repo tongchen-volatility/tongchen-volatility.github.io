@@ -6,7 +6,7 @@
 - Chen would like to talk/cooperate with all researchers/students who have common research interests.
 
 ## Research Interests
--  Financial Econometrics; Financial Engineering; Volatility/Covariance Matrix Modeling;
+-  Financial Econometrics; Financial Engineering; Volatility/Covariance Matrix/Correlation Matrix Modeling
 
 ## Positions
 - Associate professor, Department of Finance, School of Economics, Xiamen University, August 2024 - present
@@ -34,7 +34,7 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). [[Link]](https://arxiv.org/abs/2204.06943)
   - Presented at the <em>SoFiE 2022 conference</em>, University of Cambridge.
   - Presented at the <em>SoFiE 2023 conference</em>, Sungkyunkwan University.
-- Moments by the Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2410.23587)
+- Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2410.23587)
 - VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
 - Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Chen Tong and Man Zhang*)
 
@@ -47,7 +47,7 @@
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
   - <em><strong>Economics Letters</strong></em>, Vol 233: 111433, 2023. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433)
-- The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
+- The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation. (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
   - <em><strong>Journal of Empirical Finance</strong></em>, Vol 73: 369-389, 2023. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
 - Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
   - <em><strong>The Journal of Derivatives</strong></em>, Vol 30(3): 117-143, 2023. [[Link]](https://doi.org/10.3905/jod.2022.1.174)
