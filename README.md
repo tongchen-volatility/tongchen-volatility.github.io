@@ -31,14 +31,13 @@
 - Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov). [[Link]](https://arxiv.org/abs/2406.06860)
   - Presented at the <em>2024 EC2 Conference</em>, Amsterdam.
   - Presented at the conference <em>2023 Robust Econometric Methods in Financial Econometrics</em>, University of Copenhagen.
-- Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). [[Link]](https://arxiv.org/abs/2204.06943)
-  - Presented at the <em>SoFiE 2022 conference</em>, University of Cambridge.
-  - Presented at the <em>SoFiE 2023 conference</em>, Sungkyunkwan University.
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2410.23587)
 - VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
 - Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Chen Tong and Man Zhang*)
 
 ## Publications
+- Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). 
+  - <em><strong>The Review of Financial Studies</strong></em>, forthcoming.  [[Link]](https://arxiv.org/abs/2204.06943)
 - Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
   - <em><strong>Journal of Futures Markets</strong></em>, Vol 44(11): 1832-1847, 2024.  [[Link]](https://doi.org/10.1002/fut.22545)
 - Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
@@ -78,4 +77,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; March 10, 2025
+- Date: &nbsp; April 17, 2025
