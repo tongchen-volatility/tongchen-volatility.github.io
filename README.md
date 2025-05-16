@@ -9,9 +9,9 @@
 -  Financial Econometrics; Financial Engineering; Volatility/Covariance Matrix/Correlation Matrix Modeling
 
 ## Positions
-- Associate professor, Department of Finance, School of Economics, Xiamen University, August 2024 - present
-- Assistant professor, Department of Finance, School of Economics, Xiamen University, July 2021 - July 2024
-- Guest research fellow, Institute of Digital Finance, Peking University, January 2022 - present
+- Associate professor, Department of Finance, School of Economics, Xiamen University, China, August 2024 - present
+- Assistant professor, Department of Finance, School of Economics, Xiamen University, China, July 2021 - July 2024
+- Guest research fellow, Institute of Digital Finance, Peking University, China, January 2022 - present
 
 ## Education
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
@@ -28,9 +28,6 @@
   - Presented at the <em>2024 Ole E. Barndorff-Nielsen memorial conference</em>, Aarhus University.
   - Presented at the <em>2024 TSE Financial Econometrics Conference</em>, Toulouse School of Economics.
   - Presented at the <em>2024 Econometrics in Rio</em>.
-- Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov). [[Link]](https://arxiv.org/abs/2406.06860)
-  - Presented at the <em>2024 EC2 Conference</em>, Amsterdam.
-  - Presented at the conference <em>2023 Robust Econometric Methods in Financial Econometrics</em>, University of Copenhagen.
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2410.23587)
 - VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
 - Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Chen Tong and Man Zhang*)
@@ -38,32 +35,34 @@
 ## Publications
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). 
   - <em><strong>The Review of Financial Studies</strong></em>, forthcoming.  [[Link]](https://arxiv.org/abs/2204.06943)
-- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
-  - <em><strong>Journal of Futures Markets</strong></em>, Vol 44(11): 1832-1847, 2024.  [[Link]](https://doi.org/10.1002/fut.22545)
-- Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
-  - <em><strong>Finance Research Letters</strong></em>, Vol 62, Part A: 105115, 2024. [[Link]](https://doi.org/10.1016/j.frl.2024.105115)
+- Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov).
+  - <em><strong>Journal of Business & Economic Statistics</strong></em>, forthcoming. [[Link]](https://arxiv.org/abs/2406.06860)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
-- Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
-  - <em><strong>Economics Letters</strong></em>, Vol 233: 111433, 2023. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation. (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
   - <em><strong>Journal of Empirical Finance</strong></em>, Vol 73: 369-389, 2023. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
-- Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
-  - <em><strong>The Journal of Derivatives</strong></em>, Vol 30(3): 117-143, 2023. [[Link]](https://doi.org/10.3905/jod.2022.1.174)
+- Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
+  - <em><strong>Journal of Futures Markets</strong></em>, Vol 44(11): 1832-1847, 2024.  [[Link]](https://doi.org/10.1002/fut.22545)
 - Do VIX Futures Contribute to the Valuation of VIX Options? (Chen Tong, Zhuo Huang and Tianyi Wang*)
   - <em><strong>Journal of Futures Markets</strong></em>, Vol 42(9): 1644-1664, 2022. [[Link]](http://doi.org/10.1002/fut.22278)
 - Option Pricing with State-Dependent Pricing Kernel. (Chen Tong, Peter Reinhard Hansen* and Zhuo Huang) 
   - <em><strong>Journal of Futures Markets</strong></em>, Vol 42(8): 1409-1433, 2022. [[Link]](http://doi.org/10.1002/fut.22338)
 - Pricing VIX Options with Realized Volatility. (Chen Tong* and Zhuo Huang) 
   - <em><strong>Journal of Futures Markets</strong></em>, Vol 41(8): 1180-1200, 2021. [[Link]](http://doi.org/10.1002/fut.22201)
+- VIX Term Structure and VIX Futures Pricing with Realized Volatility. (Zhuo Huang, Chen Tong and Tianyi Wang*) 
+  - <em><strong>Journal of Futures  Markets</strong></em>, Vol 39(1): 72-93, 2019. [[Link]](http://doi.org/10.1002/fut.21955)
+- Good Volatility, Bad Volatility, and VIX Futures Pricing: Evidence from the Decomposition of VIX. (Chen Tong* and Zhuo Huang) 
+  - <em><strong>The Journal of Derivatives</strong></em>, Vol 30(3): 117-143, 2023. [[Link]](https://doi.org/10.3905/jod.2022.1.174)
+- Pricing CBOE VIX in Non-Affine GARCH Models with Variance Risk Premium. (Sole author)
+  - <em><strong>Finance Research Letters</strong></em>, Vol 62, Part A: 105115, 2024. [[Link]](https://doi.org/10.1016/j.frl.2024.105115)
+- Characterizing Correlation Matrices that Admit a Clustered Factor Representation. (Chen Tong and Peter Reinhard Hansen*)  
+  - <em><strong>Economics Letters</strong></em>, Vol 233: 111433, 2023. [[Link]](https://doi.org/10.1016/j.econlet.2023.111433)
+- The Spillover of Macroeconomic Uncertainty between the U.S. and China. (Zhuo Huang, Chen Tong, Han Qiu* and Yan Shen)
+  - <em><strong>Economics Letters</strong></em>, Vol 171, 123-127, 2018. [[Link]](http://doi.org/10.1016/j.econlet.2018.07.018)
 - The Predictive Power of Macroeconomic Uncertainty for Commodity Futures Volatility. (Zhuo Huang, Fang Liang and Chen Tong*)
   - <em><strong>International Review of Finance</strong></em>, Vol 21(3): 989-1012, 2021. [[Link]](http://doi.org/10.1111/irfi.12310)
 - Which Model for Option Valuation in China? Evidence from SSE 50 ETF Options. (Zhuo Huang, Chen Tong and Tianyi Wang*)
   - <em><strong>Applied Economics</strong></em>, Vol 52(17): 1866-1880, 2020. [[Link]](http://doi.org/10.1080/00036846.2019.1679348)
-- VIX Term Structure and VIX Futures Pricing with Realized Volatility. (Zhuo Huang, Chen Tong and Tianyi Wang*) 
-  - <em><strong>Journal of Futures  Markets</strong></em>, Vol 39(1): 72-93, 2019. [[Link]](http://doi.org/10.1002/fut.21955)
-- The Spillover of Macroeconomic Uncertainty between the U.S. and China. (Zhuo Huang, Chen Tong, Han Qiu* and Yan Shen)
-  - <em><strong>Economics Letters</strong></em>, Vol 171, 123-127, 2018. [[Link]](http://doi.org/10.1016/j.econlet.2018.07.018)
 - Measuring Financial Uncertainty in China: A Big Data Approach. (Zhuo Huang, Han Qiu*, Yan Shen and Chen Tong)
   - <em><strong>Journal of Financial Research (in Chinese)</strong></em>,<strong>《金融研究》</strong>, Vol 461(11): 30-46, 2018. [[Link]](http://www.jryj.org.cn/CN/Y2018/V461/I11/30)
 - Minimum Wage, Rural Migrants&rsquo; Unemployment and Crime: Evidence from China. (Dandan Zhang, Lixing Li* and Chen Tong)
@@ -77,4 +76,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; April 17, 2025
+- Date: &nbsp; May 16, 2025
