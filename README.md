@@ -1,6 +1,6 @@
 ## CHEN TONG（童晨）
 
-**Welcome to my homepage!**
+**Welcome to my homepage! [[Chinese Version]](https://faculty.xmu.edu.cn/tongchen/zh_CN)**
 - Chen Tong is an associate professor at the Department of Finance, Xiamen University, China. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
 - He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-dimensional multivariate GARCH models, high-frequency data based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
 - Chen would like to talk/cooperate with all researchers/students who have common research interests.
@@ -23,14 +23,16 @@
 
 ## Working Papers
 - Dynamic Factor Correlation Model. (Chen Tong and Peter Reinhard Hansen*) [[Link]](https://arxiv.org/abs/2503.01080)
+  - Presented at the <em>2025 SoFie Conference</em>, ESSEC Business School, Paris.
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
   - Presented at the <em>2024 CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels</em>, Montreal.
   - Presented at the <em>2024 Ole E. Barndorff-Nielsen memorial conference</em>, Aarhus University.
   - Presented at the <em>2024 TSE Financial Econometrics Conference</em>, Toulouse School of Economics.
   - Presented at the <em>2024 Econometrics in Rio</em>.
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2410.23587)
+  - Presented at the <em>2025 SoFie Conference</em>, ESSEC Business School, Paris.
 - VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
-- Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Chen Tong and Man Zhang*)
+- Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Man Zhang and Chen Tong*)
 
 ## Publications
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). 
@@ -76,4 +78,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; May 27, 2025
+- Date: &nbsp; June 11, 2025
