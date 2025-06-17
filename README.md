@@ -24,14 +24,14 @@
 ## Working Papers
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2506.12112)
 - Dynamic Factor Correlation Model. (Chen Tong and Peter Reinhard Hansen*) [[Link]](https://arxiv.org/abs/2503.01080)
-  - Presented at the <em>2025 SoFie Conference</em>, ESSEC Business School, Paris.
+  - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2404.00864)
   - Presented at the <em>2024 CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels</em>, Montreal.
   - Presented at the <em>2024 Ole E. Barndorff-Nielsen memorial conference</em>, Aarhus University.
   - Presented at the <em>2024 TSE Financial Econometrics Conference</em>, Toulouse School of Economics.
   - Presented at the <em>2024 Econometrics in Rio</em>.
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2410.23587)
-  - Presented at the <em>2025 SoFie Conference</em>, ESSEC Business School, Paris.
+  - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
 - VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
 - Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Man Zhang and Chen Tong*)
 
