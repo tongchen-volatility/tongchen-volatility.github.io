@@ -37,7 +37,7 @@
 
 ## Publications
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). 
-  - <em><strong>The Review of Financial Studies</strong></em>, forthcoming.  [[Link]](https://arxiv.org/abs/2204.06943)
+  - <em><strong>The Review of Financial Studies</strong></em>, published online.  [[Link]](https://doi.org/10.1093/rfs/hhaf063)
 - Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov).
   - <em><strong>Journal of Business & Economic Statistics</strong></em>, published online. [[Link]](https://doi.org/10.1080/07350015.2025.2510325)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
@@ -79,4 +79,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; June 17, 2025
+- Date: &nbsp; August 23, 2025
