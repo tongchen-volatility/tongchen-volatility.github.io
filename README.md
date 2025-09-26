@@ -32,7 +32,6 @@
   - Presented at the <em>2024 Econometrics in Rio</em>.
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2410.23587)
   - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
-- VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
 - Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Man Zhang and Chen Tong*)
 
 ## Publications
@@ -44,6 +43,8 @@
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation. (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
   - <em><strong>Journal of Empirical Finance</strong></em>, Vol 73: 369-389, 2023. [[Link]](https://doi.org/10.1016/j.jempfin.2023.08.004)
+- VIX Option Pricing with Detected Jumps. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
+  - <em><strong>Journal of Futures Markets</strong></em>, forthcoming.
 - Pricing VIX Futures and Options with Good and Bad Volatility of Volatility. (Zhiyu Guo, Zhuo Huang and Chen Tong*)
   - <em><strong>Journal of Futures Markets</strong></em>, Vol 44(11): 1832-1847, 2024.  [[Link]](https://doi.org/10.1002/fut.22545)
 - Do VIX Futures Contribute to the Valuation of VIX Options? (Chen Tong, Zhuo Huang and Tianyi Wang*)
@@ -79,4 +80,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; August 23, 2025
+- Date: &nbsp; September 26, 2025
