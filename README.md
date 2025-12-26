@@ -22,7 +22,7 @@
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
-- Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong)
+- Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2512.17005)
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal. (Peter Reinhard Hansen and Chen Tong*) [[Link]](https://arxiv.org/abs/2506.12112)
 - Dynamic Factor Correlation Model. (Chen Tong and Peter Reinhard Hansen*) [[Link]](https://arxiv.org/abs/2503.01080)
   - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
