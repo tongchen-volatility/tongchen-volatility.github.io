@@ -34,9 +34,9 @@
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). 
   - <em><strong>The Review of Financial Studies</strong></em>, published online.  [[Link]](https://doi.org/10.1093/rfs/hhaf063)
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*).
-  - <em><strong>Journal of Econometrics</strong></em>, forthcoming. [[arXiv]](https://arxiv.org/abs/2404.00864)
+  - <em><strong>Journal of Econometrics</strong></em>, Vol 254 (Part B): 106212, 2026. [[Link]](https://doi.org/10.1016/j.jeconom.2026.106212)
 - Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov).
-  - <em><strong>Journal of Business & Economic Statistics</strong></em>, published online. [[Link]](https://doi.org/10.1080/07350015.2025.2510325)
+  - <em><strong>Journal of Business & Economic Statistics</strong></em>, Vol 44(1): 148-161, 2026. [[Link]](https://doi.org/10.1080/07350015.2025.2510325)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation. (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
@@ -78,4 +78,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; January 27, 2026
+- Date: &nbsp; February 10, 2026
