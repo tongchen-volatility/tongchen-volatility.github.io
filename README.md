@@ -24,8 +24,6 @@
 ## Working Papers
 - Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2512.17005) [[NBER]](https://www.nber.org/papers/w34623)
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2506.12112)
-- Dynamic Factor Correlation Model. (Chen Tong and Peter Reinhard Hansen*) [[arXiv]](https://arxiv.org/abs/2503.01080)
-  - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2410.23587)
   - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
 - Volatility Forecasting with Supervised Macroeconomic Uncertainty. (Man Zhang, Xinxian Chen and Chen Tong*)
@@ -33,6 +31,8 @@
 ## Publications
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). 
   - <em><strong>The Review of Financial Studies</strong></em>, published online.  [[Link]](https://doi.org/10.1093/rfs/hhaf063)
+- Dynamic Factor Correlations. (Chen Tong and Peter Reinhard Hansen*).
+  - <em><strong>Journal of Applied Econometrics</strong></em>, forthcoming. [[arXiv]](https://arxiv.org/abs/2503.01080)
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*).
   - <em><strong>Journal of Econometrics</strong></em>, Vol 254 (Part B): 106212, 2026. [[Link]](https://doi.org/10.1016/j.jeconom.2026.106212)
 - Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov).
@@ -78,4 +78,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; February 10, 2026
+- Date: &nbsp; February 16, 2026
