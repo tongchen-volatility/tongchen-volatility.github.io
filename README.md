@@ -24,6 +24,8 @@
 ## Working Papers
 - Dynamic Factor Correlations. (Chen Tong and Peter Reinhard Hansen*).
   - <em><strong>Journal of Applied Econometrics</strong></em>, R&R. [[arXiv]](https://arxiv.org/abs/2503.01080)
+  - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
+- Complex Moments, Gamma and Riemann Zeta Functions unified by the Parabolic Mellin Transform. (Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2602.17007)
 - Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2512.17005) [[NBER]](https://www.nber.org/papers/w34623)
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2506.12112)
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2410.23587)
@@ -78,4 +80,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; February 16, 2026
+- Date: &nbsp; February 20, 2026
