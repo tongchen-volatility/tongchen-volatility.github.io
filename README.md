@@ -34,7 +34,7 @@
 
 ## Publications
 - Option Pricing with Time-Varying Volatility Risk Aversion. (Peter Reinhard Hansen and Chen Tong*). 
-  - <em><strong>The Review of Financial Studies</strong></em>, published online.  [[Link]](https://doi.org/10.1093/rfs/hhaf063)
+  - <em><strong>The Review of Financial Studies</strong></em>, Vol 39(3): 875-924, 2026.  [[Link]](https://doi.org/10.1093/rfs/hhaf063)
 - Convolution-<em>t</em> Distributions. (Peter Reinhard Hansen and Chen Tong*).
   - <em><strong>Journal of Econometrics</strong></em>, Vol 254 (Part B): 106212, 2026. [[Link]](https://doi.org/10.1016/j.jeconom.2026.106212)
 - Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov).
