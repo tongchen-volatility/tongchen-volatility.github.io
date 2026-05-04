@@ -1,6 +1,6 @@
 ## CHEN TONG（童晨）
 
-**Welcome to my homepage! [[Chinese Version]](https://faculty.xmu.edu.cn/tongchen/zh_CN)**
+**Welcome to my homepage! [[Chinese Version 中文网页]](https://faculty.xmu.edu.cn/tongchen/zh_CN)**
 - Chen Tong is an associate professor at the Department of Finance, Xiamen University, China. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
 - He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-dimensional multivariate GARCH models, high-frequency data based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
 - Chen would like to talk/cooperate with all researchers/students who have common research interests.
@@ -17,14 +17,12 @@
 - Ph.D. in Finance, National School of Development, Peking University, 2016-2021
   - Advisors: Zhuo Huang (@PKU), Yan Shen (@PKU)
 - Visiting Ph.D. student, Economics Department, Duke University, 2019-2020
-  - Advisors: Peter Reinhard Hansen (@UNC, Chapel Hill), Jia Li (@SMU)
+  - Advisors: [Peter Reinhard Hansen (@UNC, Chapel Hill)](https://reinhardhansen.github.io), Jia Li (@SMU)
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
-- Dynamic Factor Correlations. (Chen Tong and Peter Reinhard Hansen*).
-  - <em><strong>Journal of Applied Econometrics</strong></em>, R&R. [[arXiv]](https://arxiv.org/abs/2503.01080)
-  - Presented at the <em>2025 SoFiE Conference</em>, ESSEC Business School, Paris.
+- Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models. (Peter Reinhard Hansen and Chen Tong*).
 - Complex Moments, Gamma and Riemann Zeta Functions unified by the Parabolic Mellin Transform. (Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2602.17007)
 - Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2512.17005) [[NBER]](https://www.nber.org/papers/w34623)
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2506.12112)
@@ -39,6 +37,8 @@
   - <em><strong>Journal of Econometrics</strong></em>, Vol 254 (Part B): 106212, 2026. [[Link]](https://doi.org/10.1016/j.jeconom.2026.106212)
 - Cluster GARCH. (Chen Tong, Peter Reinhard Hansen* and Ilya Archakov).
   - <em><strong>Journal of Business & Economic Statistics</strong></em>, Vol 44(1): 148-161, 2026. [[Link]](https://doi.org/10.1080/07350015.2025.2510325)
+- Dynamic Factor Correlations. (Chen Tong and Peter Reinhard Hansen*).
+  - <em><strong>Journal of Applied Econometrics</strong></em>, published online. [[Link]](https://doi.org/10.1002/jae.70062)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium. (Peter Reinhard Hansen, Zhuo Huang, Chen Tong* and Tianyi Wang)
   - <em><strong>Journal of Financial Econometrics</strong></em>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation. (Chen Tong, Zhuo Huang, Tianyi Wang* and Cong Zhang)
@@ -80,4 +80,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; February 20, 2026
+- Date: &nbsp; May 4, 2026
