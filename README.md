@@ -2,7 +2,7 @@
 
 **Welcome to my homepage! [[Chinese Version (中文网页)]](https://faculty.xmu.edu.cn/tongchen/zh_CN)**
 - Chen Tong is an associate professor at the Department of Finance, Xiamen University, China. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
-- He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-dimensional multivariate GARCH models, high-frequency data based pricing models for VIX derivatives (e.g., VIX futures/options), and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
+- He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-dimensional multivariate GARCH models, heavy-tailed multivariate distributions, high-frequency data based pricing models for VIX derivatives, and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
 - Chen would like to talk/cooperate with all researchers/students who have common research interests.
 
 ## Research Interests
@@ -22,7 +22,8 @@
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
-- Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models. (Peter Reinhard Hansen and Chen Tong*). [[arXiv]](https://arxiv.org/abs/2605.01665)
+- Tweedie's Formula, Variance Functions, and Score-Driven Updating. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.15902)
+- Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.01665)
 - Complex Moments, Gamma and Riemann Zeta Functions unified by the Parabolic Mellin Transform. (Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2602.17007)
 - Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2512.17005) [[NBER]](https://www.nber.org/papers/w34623)
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2506.12112)
@@ -80,4 +81,4 @@
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; May 5, 2026
+- Date: &nbsp; May 18, 2026
