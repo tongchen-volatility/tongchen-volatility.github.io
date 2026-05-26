@@ -22,7 +22,7 @@
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
-- Tweedie's Formula, Variance Functions, and Score-Driven Updating. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.15902)
+- Tweedie's Formula and Score-Driven Updating. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.15902)
 - Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.01665)
 - Complex Moments, Gamma and Riemann Zeta Functions unified by the Parabolic Mellin Transform. (Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2602.17007)
 - Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2512.17005) [[NBER]](https://www.nber.org/papers/w34623)
