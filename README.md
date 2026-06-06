@@ -24,7 +24,7 @@
 ## Working Papers
 - Tweedie's Formula and Score-Driven Updating. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.15902)
 - Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.01665)
-- Complex Moments, Gamma and Riemann Zeta Functions unified by the Parabolic Mellin Transform. (Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2602.17007)
+- The Parabolic Mellin Transform: Gamma and Zeta Integral Representations. (Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2602.17007)
 - Principled Identification of Structural Dynamic Models. (Neville Francis, Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2512.17005) [[NBER]](https://www.nber.org/papers/w34623)
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2506.12112)
 - Moments by Integrating the Moment-Generating Function. (Peter Reinhard Hansen and Chen Tong*) [[arXiv]](https://arxiv.org/abs/2410.23587)
