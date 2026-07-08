@@ -22,7 +22,7 @@
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
-- Split-Session Cluster GARCH for Overnight and Intraday Returns: The Role of Tail Heterogeneity. (Xinxian Chen, Peter Reinhard Hansen and Chen Tong*).
+- Split-Session Cluster GARCH for Overnight and Intraday Returns: The Role of Tail Heterogeneity. (Xinxian Chen, Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2607.03669)
 - Tweedie's Formula and Score-Driven Updating. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.15902)
 - Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models. (Peter Reinhard Hansen and Chen Tong*).[[arXiv]](https://arxiv.org/abs/2605.01665)
 - The Parabolic Mellin Transform: Gamma and Zeta Integral Representations. (Peter Reinhard Hansen* and Chen Tong). [[arXiv]](https://arxiv.org/abs/2602.17007)
