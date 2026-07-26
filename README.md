@@ -125,27 +125,11 @@ who share related interests.
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
 - Date: &nbsp; July 4, 2026
 
-<br><br>
-
+<br>
 <div align="center">
-
-  <h2>Website Statistics</h2>
-
   <p>
     <em>Visitors to my academic homepage from around the world</em>
   </p>
-
-  <div style="
-      width: 90%;
-      max-width: 520px;
-      margin: 16px auto;
-      padding: 14px;
-      background: #ffffff;
-      border-radius: 14px;
-      box-shadow: 0 5px 18px rgba(0, 0, 0, 0.08);
-      overflow: hidden;
-  ">
-
     <script
       type="text/javascript"
       id="mapmyvisitors"
