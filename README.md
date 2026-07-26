@@ -1,9 +1,45 @@
-## CHEN TONG（童晨）
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="900"
+       style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto;">
+  <tr style="border: none;">
+    <td width="280" valign="middle"
+        style="border: none; padding: 18px 28px 18px 0;">
+      <img src="IMG_4652.JPG" alt="Chen Tong" width="250">
+    </td>
+    <td valign="middle" align="left"
+        style="border: none; padding: 18px 0 18px 28px;">
+      <h1>CHEN TONG（童晨）</h1>
+      <h3>Associate Professor of Finance</h3>
+      <p>
+        <strong>Department of Finance, School of Economics</strong><br>
+        Xiamen University, China
+      </p>
+      <p>
+        Financial Econometrics · Financial Engineering<br>
+      </p>
+      <p>
+        <a href="https://faculty.xmu.edu.cn/tongchen/zh_CN">Chinese Homepage</a>
+        &nbsp;·&nbsp;
+        <a href="mailto:tongchen@xmu.edu.cn">Email</a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
-**Welcome to my homepage! [[Chinese Version (中文网页)]](https://faculty.xmu.edu.cn/tongchen/zh_CN)**
-- Chen Tong is an associate professor at the Department of Finance, Xiamen University, China. He holds a B.S. in Chemistry, a B.A. in Economics, and a Ph.D. in Finance from Peking University, China.
-- He focuses on the modeling of financial <em>volatility/covariance matrix</em>, high-frequency data analysis, and their applications in financial engineering. Some of his main contributions are associated with developing new high-dimensional multivariate GARCH models, heavy-tailed multivariate distributions, high-frequency data based pricing models for VIX derivatives, and proposing coherent frameworks for derivatives pricing with time-varying risk aversion.
-- Chen would like to talk/cooperate with all researchers/students who have common research interests.
+## About Me
+
+I am an Associate Professor in the Department of Finance at the School of
+Economics, Xiamen University. I received a B.S. in Chemistry, a B.A. in
+Economics, and a Ph.D. in Finance from Peking University.
+
+My research focuses on financial econometrics and financial engineering,
+particularly volatility and covariance modeling, high-frequency financial
+data, multivariate GARCH models, heavy-tailed multivariate distributions,
+VIX derivatives, option pricing, and time-varying risk aversion.
+
+I welcome discussions and research collaborations with scholars and students
+who share related interests.
 
 ## Research Interests
 -  Financial Econometrics; Financial Engineering; Volatility/Covariance/Correlation Matrix Modeling
