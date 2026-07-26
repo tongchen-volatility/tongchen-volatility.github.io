@@ -125,21 +125,15 @@ who share related interests.
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
 - Date: &nbsp; July 4, 2026
 
-<br>
 <div align="center">
-  <p>
-    <em>Visitors to my academic homepage from around the world</em>
-  </p>
-
   <div style="
       width: 90%;
       max-width: 300px;
       margin: 16px auto;
-      padding: 14px;
-      background: #ffffff;
-      border-radius: 14px;
-      box-shadow: 0 5px 18px rgba(0, 0, 0, 0.08);
+      padding: 0;
+      line-height: 0;
       overflow: hidden;
+      border-radius: 12px;
   ">
     <script
       type="text/javascript"
@@ -150,5 +144,3 @@ who share related interests.
   </div>
 
 </div>
-
-<br>
