@@ -136,19 +136,20 @@ who share related interests.
   </p>
 
   <div style="
-      max-width: 760px;
-      margin: 20px auto 0 auto;
-      padding: 24px;
+      width: 90%;
+      max-width: 520px;
+      margin: 16px auto;
+      padding: 14px;
       background: #ffffff;
-      border-radius: 18px;
-      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.10);
+      border-radius: 14px;
+      box-shadow: 0 5px 18px rgba(0, 0, 0, 0.08);
       overflow: hidden;
   ">
 
     <script
       type="text/javascript"
       id="mapmyvisitors"
-      src="https://mapmyvisitors.com/map.js?d=E84sK3lnzApHaMi4smtatigMdNx5bvw8fe5WSuYfy-0&cl=ffffff&w=a">
+      src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=E84sK3lnzApHaMi4smtatigMdNx5bvw8fe5WSuYfy-0">
     </script>
 
   </div>
