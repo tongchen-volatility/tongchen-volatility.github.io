@@ -1,4 +1,4 @@
-## Chen Tong
+## CHEN TONG（童晨）
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0" width="900"
        style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto;">
@@ -9,7 +9,7 @@
     </td>
     <td valign="middle" align="left"
         style="border: none; padding: 18px 0 18px 28px;">
-      <h1>CHEN TONG（童晨）</h1>
+      <h1>CHEN TONG</h1>
       <h3>Associate Professor of Finance</h3>
       <p>
         <strong>Department of Finance, School of Economics</strong><br>
