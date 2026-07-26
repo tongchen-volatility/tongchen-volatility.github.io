@@ -130,6 +130,17 @@ who share related interests.
   <p>
     <em>Visitors to my academic homepage from around the world</em>
   </p>
+
+  <div style="
+      width: 90%;
+      max-width: 300px;
+      margin: 16px auto;
+      padding: 14px;
+      background: #ffffff;
+      border-radius: 14px;
+      box-shadow: 0 5px 18px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+  ">
     <script
       type="text/javascript"
       id="mapmyvisitors"
