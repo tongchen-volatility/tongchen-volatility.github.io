@@ -23,6 +23,10 @@
         &nbsp;·&nbsp;
         <a href="mailto:tongchen@xmu.edu.cn">Email</a>
       </p>
+  <p>
+    <em>“There is only one success — to be able to spend your life in your own way.”</em><br>
+    <sub>— Christopher Morley</sub>
+  </p>     
     </td>
   </tr>
 </table>
@@ -35,15 +39,14 @@ Economics, Xiamen University. I received a B.S. in Chemistry, a B.A. in
 Economics, and a Ph.D. in Finance from Peking University.
 
 My research focuses on financial econometrics and financial engineering,
-particularly volatility and covariance modeling, high-frequency financial
-data, multivariate GARCH models, heavy-tailed multivariate distributions,
-VIX derivatives, option pricing, and time-varying risk aversion.
+particularly covariance modeling in high-dimensional setting, multivariate GARCH models, heavy-tailed multivariate distributions,
+VIX derivatives and option pricing. 
 
 I welcome discussions and research collaborations with scholars and students
 who share related interests.
 
 ## Research Interests
--  Financial Econometrics; Financial Engineering; Volatility/Covariance/Correlation Matrix Modeling
+-  Financial Econometrics; Financial Engineering; High-dimensional Statistics
 
 ## Positions
 - Associate professor, Department of Finance, School of Economics, Xiamen University, China, August 2024 - present
@@ -59,10 +62,10 @@ who share related interests.
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
-- Split-Session Cluster GARCH for Overnight and Intraday Returns: The Role of Tail Heterogeneity (with Xinxian Chen, Peter Reinhard Hansen). [[arXiv]](https://arxiv.org/abs/2607.03669)
 - Tweedie's Formula and Score-Driven Updating (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2605.15902)
 - Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2605.01665)
   - Presented at the 2026 SoFiE Conference, University of Macau, Macau.
+- Split-Session Cluster GARCH for Overnight and Intraday Returns: The Role of Tail Heterogeneity (with Xinxian Chen, Peter Reinhard Hansen). [[arXiv]](https://arxiv.org/abs/2607.03669)
 - The Parabolic Mellin Transform: Gamma and Zeta Integral Representations (with Peter Reinhard Hansen). [[arXiv]](https://arxiv.org/abs/2602.17007)
 - Principled Identification of Structural Dynamic Models (with Neville Francis, Peter Reinhard Hansen). [[arXiv]](https://arxiv.org/abs/2512.17005) [[NBER]](https://www.nber.org/papers/w34623)
 - A Unifying Integral Representation of the Gamma Function and Its Reciprocal (with Peter Reinhard Hansen). [[arXiv]](https://arxiv.org/abs/2506.12112)
@@ -120,4 +123,4 @@ who share related interests.
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; May 18, 2026
+- Date: &nbsp; July 4, 2026
