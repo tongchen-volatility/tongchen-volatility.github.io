@@ -39,14 +39,14 @@ Economics, Xiamen University. I received a B.S. in Chemistry, a B.A. in
 Economics, and a Ph.D. in Finance from Peking University.
 
 My research focuses on financial econometrics and financial engineering,
-particularly covariance modeling in high-dimensional setting, multivariate GARCH models, heavy-tailed multivariate distributions,
+particularly covariance modeling in high-dimensional setting, high-frequency financial data, multivariate GARCH models, heavy-tailed multivariate distributions,
 VIX derivatives and option pricing. 
 
 I welcome discussions and research collaborations with scholars and students
 who share related interests.
 
 ## Research Interests
--  Financial Econometrics; Financial Engineering; High-dimensional Statistics
+-  Financial Econometrics; Financial Engineering; High-frequency Financial Data; High-dimensional Statistics
 
 ## Positions
 - Associate professor, Department of Finance, School of Economics, Xiamen University, China, August 2024 - present
