@@ -81,7 +81,7 @@ who share related interests.
 - Cluster GARCH (with Peter Reinhard Hansen, Ilya Archakov).
   - <strong>Journal of Business & Economic Statistics</strong>, Vol 44(1): 148-161, 2026. [[Link]](https://doi.org/10.1080/07350015.2025.2510325)
 - Dynamic Factor Correlations (with Peter Reinhard Hansen).
-  - <strong>Journal of Applied Econometrics</strong>, published online. [[Link]](https://doi.org/10.1002/jae.70062)
+  - <strong>Journal of Applied Econometrics</strong>, Vol 41(5): 580-596, 2026. [[Link]](https://doi.org/10.1002/jae.70062)
 - Realized GARCH, CBOE VIX, and the Volatility Risk Premium (with Peter Reinhard Hansen, Zhuo Huang, Tianyi Wang).
   - <strong>Journal of Financial Econometrics</strong>, Vol 22(1): 187-223, 2024. [[Link]](https://doi.org/10.1093/jjfinec/nbac033)
 - The Effects of Economic Uncertainty on Financial Volatility: A Comprehensive Investigation (with Zhuo Huang, Tianyi Wang, Cong Zhang).
