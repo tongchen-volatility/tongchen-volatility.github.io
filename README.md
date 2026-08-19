@@ -10,7 +10,7 @@
     <td valign="middle" align="left"
         style="border: none; padding: 18px 0 18px 28px;">
       <h1>CHEN TONG</h1>
-      <h3>Associate Professor of Finance</h3>
+      <h3>Associate Professor of Finance and Econometrics</h3>
       <p>
         <strong>Department of Finance, School of Economics</strong><br>
         Xiamen University, China
