@@ -62,6 +62,8 @@ who share related interests.
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
+- Local Optimality and Rigidity of Frobenius Tests for Dense High-dimensional Covariance Alternatives (with Peter Reinhard Hansen, Werner Ploberger).
+- $\mathsf{voigtinference}$: Exact Likelihood Calculus and Conditional Attribution for the Voigt Profile (with Peter Reinhard Hansen).
 - Tweedie's Formula and Score-Driven Updating (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2605.15902)
 - Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2605.01665)
   - Presented at the 2026 SoFiE Conference, University of Macau, Macau.
@@ -123,4 +125,4 @@ who share related interests.
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; July 4, 2026
+- Date: &nbsp; September 23, 2026
