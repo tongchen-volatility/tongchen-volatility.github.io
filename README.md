@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0" width="900"
        style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto;">
   <tr style="border: none;">
-    <td width="280" valign="middle"
+    <td width="250" valign="middle"
         style="border: none; padding: 18px 28px 18px 0;">
       <img src="MyPhoto.jpg" alt="Chen Tong" width="250">
     </td>
@@ -62,8 +62,8 @@ who share related interests.
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
 ## Working Papers
-- Local Optimality and Rigidity of Frobenius Tests for Dense High-dimensional Covariance Alternatives (with Peter Reinhard Hansen, Werner Ploberger).
-- `voigtinference`: Exact Likelihood Calculus and Conditional Attribution for the Voigt Profile (with Peter Reinhard Hansen).
+- Local Optimality and Rigidity of Frobenius Tests for Dense High-dimensional Covariance Alternatives (with Peter Reinhard Hansen, Werner Ploberger).[[arXiv]](https://arxiv.org/abs/2609.27200) 
+- `voigtinference`: Exact Likelihood Calculus and Conditional Attribution for the Voigt Profile (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2609.27969)
 - Tweedie's Formula and Score-Driven Updating (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2605.15902)
 - Exact Likelihood Inference and Robust Filtering for Gauss-Cauchy Convolution Models (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2605.01665)
   - Presented at the 2026 SoFiE Conference, University of Macau, Macau.
