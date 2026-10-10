@@ -19,8 +19,10 @@
         Financial Econometrics · Financial Engineering<br>
       </p>
       <p>
+        <a href="https://arxiv.org/a/0000-0002-3065-5978">Working Papers (arXiv)</a>     
+        &nbsp;·&nbsp;             
         <a href="https://faculty.xmu.edu.cn/tongchen/zh_CN">Chinese Homepage</a>
-        &nbsp;·&nbsp;
+        &nbsp;·&nbsp;     
         <a href="mailto:tongchen@xmu.edu.cn">Email</a>
       </p>
   <p>
