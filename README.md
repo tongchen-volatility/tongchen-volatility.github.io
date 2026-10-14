@@ -12,11 +12,8 @@
       <h1>CHEN TONG</h1>
       <h3>Associate Professor of Finance and Econometrics</h3>
       <p>
-        <strong>Department of Finance, School of Economics</strong><br>
+        Department of Finance, School of Economics<br>
         Xiamen University, China
-      </p>
-      <p>
-        Financial Econometrics · Financial Engineering<br>
       </p>
       <p>
         <a href="https://arxiv.org/a/0000-0002-3065-5978">Working Papers (arXiv)</a>     
