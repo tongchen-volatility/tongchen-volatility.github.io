@@ -63,7 +63,8 @@ who share related interests.
 - B.S. in Chemistry, College of Chemistry and Molecular Engineering, Peking University, 2012-2016
 - B.A. in Economics (Double Major), National School of Development, Peking University, 2013-2016
 
-## Working Papers
+## Working Papers [[arXiv]](https://arxiv.org/a/0000-0002-3065-5978)
+- A Balanced Parametrization of Correlation Matrices (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2610.14511)
 - Local Optimality and Rigidity of Frobenius Tests for Dense High-dimensional Covariance Alternatives (with Peter Reinhard Hansen, Werner Ploberger).[[arXiv]](https://arxiv.org/abs/2609.27200) 
 - `voigtinference`: Exact Likelihood Calculus and Conditional Attribution for the Voigt Profile (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2609.27969)
 - Tweedie's Formula and Score-Driven Updating (with Peter Reinhard Hansen).[[arXiv]](https://arxiv.org/abs/2605.15902)
@@ -127,4 +128,4 @@ who share related interests.
 - 中文名: 童晨 <br />
 - Office: B407, Econ Building, Xiamen University, Fujian 361005, China <br />
 - Email: &nbsp; tongchen@xmu.edu.cn <br />
-- Date: &nbsp; September 23, 2026
+- Date: &nbsp; October 14, 2026
