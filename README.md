@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0" width="900"
        style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto;">
   <tr style="border: none;">
-    <td width="250" valign="middle"
+    <td width="230" valign="middle"
         style="border: none; padding: 18px 28px 18px 0;">
       <img src="MyPhoto.jpg" alt="Chen Tong" width="250">
     </td>
